@@ -1,7 +1,7 @@
 # PUBG settings
 ## Graphics
 ### Basic
-Launguage Setting - English
+Launguage Setting - English<br>
 Display Mode - Borderless
 Resolution - 2560*1152
 Lobby FPS Cap - 60FPS
