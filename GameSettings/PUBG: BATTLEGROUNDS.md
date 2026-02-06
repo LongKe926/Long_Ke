@@ -42,7 +42,7 @@ Voice Chat Channel - None
 My Mouse DPI - 400
 My Mouse FPS - 500
 General Sensitivity - 47<br>
-Vertical Sensitivity Multiplier - 1<br>
+Vertical Sensitivity Multiplier - 1.0<br>
 Aim Sensitivity - 47<br>
 ADS Sensitivity - 37<br>
 Scoping Sensitivity - 37<br>
