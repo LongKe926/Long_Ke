@@ -1,4 +1,3 @@
 # PUBG settings
 ## Graphics
-=======================
 Basic
