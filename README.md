@@ -5,5 +5,5 @@ Hello, My name is Long_Ke
 -------------------------------
 
 - See My Mods
-- See my speedrun records[Speedrun - Long_Ke](https://www.speedrun.com/users/Long_Ke)
+- See my speedrun records [Speedrun - Long_Ke](https://www.speedrun.com/users/Long_Ke)
 - See my game settings
