@@ -8,7 +8,7 @@ Lobby FPS Cap - 60FPS<br>
 In-Game FPS Cap - Unlimited<br>
 Smoothed Frame Rate - Disable<br>
 Brightness - 60<br>
-Universal Brightness for All Maps - Enable<br>
+Universal Brightness for All Maps - Enable
 ### Advanced<br>
 Render Scale - 100<br>
 FPP Camera FOV - 90<br>
