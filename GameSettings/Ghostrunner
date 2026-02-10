@@ -1,1 +1,52 @@
-
+# Ghostrunner
+## Gameplay
+Subtitlies - Off
+Crouch - Hold
+Show UI - On
+Camera Shake - Off
+Instant restart - On
+Gameplay counters - On
+ASUS Aura - Off
+## Video
+Window Mode - Fullscreen
+Resolution - 2560*1152
+Resolution Scale - 100
+FidelityFX Upsampling - Off
+DLSS - Off
+Anti Aliasing - High
+Post ProcessQuality - Low
+Shadow Quality - High
+Textures Quality - Low
+Effects Quality - Low
+Material Quality - Low
+Brightness - 58
+Blur - Epic
+Gore Effect - On
+Frame Rate Limit - 120
+V-Sync - Off
+Field of view - 120
+Ray Tracing - Off
+NVIDIA Reflex Low Latency - Enabled
+## Auido
+Master Volume - 100
+Music Volume - 0
+Sound Effcts Volume - 5
+Dlalogs Volurme - 0
+## Controls
+### Key Bindings
+Attack - LMB & ESC
+Gap Jammer - Mouse button 4 & Tab
+Jump - Space
+Dash - RMB
+Crouch - Shift
+Interaction - F
+Activate Skill - Q
+Upgrades - G
+Skil 1/2/3/4 - 1/2/3/4
+Restart - R
+Taunt - E
+Move around - WSAD
+### Mouse Sensitivity
+My Mouse DPI - 400
+My Mouse FPS - 500
+Mouse Sensitivity - 15
