@@ -10,7 +10,7 @@ Smoothed Frame Rate - Disable<br>
 Brightness - 60<br>
 Universal Brightness for All Maps - Enable
 ### Advanced<br>
-Render Scale - 100<br>
+Render Scale - 125<br>
 FPP Camera FOV - 90<br>
 Anti-Aliasing - Medium<br>
 Post-Processing - Very Low<br>
