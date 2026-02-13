@@ -26,7 +26,7 @@ Frame Rate Limit - 120<br>
 V-Sync - Off<br>
 Field of view - 120<br>
 Ray Tracing - Off<br>
-NVIDIA Reflex Low Latency - Enabled
+NVIDIA Reflex Low Latency - Enabled + Boost
 ## Auido
 Master Volume - 100<br>
 Music Volume - 0<br>
