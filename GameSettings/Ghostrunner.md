@@ -15,7 +15,7 @@ FidelityFX Upsampling - Off<br>
 DLSS - Off<br>
 Anti Aliasing - High<br>
 Post ProcessQuality - Low<br>
-Shadow Quality - High<br>
+Shadow Quality - Medium<br>
 Textures Quality - Low<br>
 Effects Quality - Low<br>
 Material Quality - Low<br>
