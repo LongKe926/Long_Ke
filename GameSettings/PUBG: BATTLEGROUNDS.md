@@ -19,7 +19,7 @@ Textures - Ultra<br>
 Effects - Very Low<br>
 Foliage - Very Low<br>
 View Distance - Ultra<br>
-Sharpen - Disable<br>
+Sharpen - Enable<br>
 V-Sync - Disable<br>
 Motion Blur - Disable<br>
 DirectX Version - DirectX 11 Enhanced
