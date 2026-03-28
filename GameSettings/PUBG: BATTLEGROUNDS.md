@@ -80,8 +80,8 @@ Aim - Mouse button 4<br>
 Primary Weapon 1 - 1<br>
 Primary Weapon 2 - 2<br>
 Secondary Weapon - 3<br>
-Melee Weapon - 8<br>
-Throwables - 7<br>
+Melee Weapon - 7<br>
+Throwables - 6<br>
 Cycle Firing Mode - B<br>
 Peek Left & Right - Q & E<br>
 Holster Weapons - X<br>
