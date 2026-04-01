@@ -45,7 +45,7 @@ Upgrades - G<br>
 Skil 1/2/3/4 - 1/2/3/4<br>
 Restart - R<br>
 Taunt - E<br>
-Move around - WSAD<br>
+Move around - WSAD & C<br>
 ### Mouse Sensitivity<br>
 My Mouse DPI - 400<br>
 My Mouse FPS - 500<br>
