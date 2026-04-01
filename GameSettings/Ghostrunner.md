@@ -20,7 +20,7 @@ Textures Quality - Low<br>
 Effects Quality - Low<br>
 Material Quality - Low<br>
 Brightness - 58<br>
-Blur - Epic<br>
+Blur - Off<br>
 Gore Effect - On<br>
 Frame Rate Limit - 120<br>
 V-Sync - Off<br>
