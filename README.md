@@ -10,7 +10,7 @@ Hello, My name is Long_Ke
 
 #### My Setup
 - CPU - Intel Core i3-12100F
-- Graphics Card - Colorful BattleAx GTX 1660 Super | Core Clock +195MHz / Memory Clock +325MHz
+- Graphics Card - Colorful BattleAx GTX 1660 Super | Core Clock +195MHz / Memory Clock +350MHz
 - Motherboard - ASUS PRIME H610M-K D4
 - Memory - Colorful BattleAx DDR4-3200 8GB x2
 - Storage - GIGABYTE G325E 500GB SSD
