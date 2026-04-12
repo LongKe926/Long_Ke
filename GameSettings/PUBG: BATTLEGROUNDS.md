@@ -15,9 +15,9 @@ FPP Camera FOV - 90<br>
 Anti-Aliasing - Medium<br>
 Post-Processing - Very Low<br>
 Shadows - Very Low<br>
-Textures - Ultra<br>
+Textures - Medium<br>
 Effects - Very Low<br>
-Foliage - Very Low<br>
+Foliage - High Low<br>
 View Distance - Ultra<br>
 Sharpen - Enable<br>
 V-Sync - Disable<br>
@@ -122,4 +122,4 @@ Additional Action Queuing - Enable<br>
 Highlight Recommended Ammo - Disable<br>
 Highlight Recommended Equipment - Enable<br>
 Highlight Recommended Attachments - Enable<br>
-Delay Exit From Moving Vehicles - Enable
+Delay Exit From Moving Vehicles - Disable
