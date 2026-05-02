@@ -2,7 +2,7 @@
 ## Graphics
 ### Basic
 Launguage Setting - English<br>
-Display Mode - Borderless<br>
+Display Mode - Full Screen<br>
 Resolution - 2560*1152<br>
 Lobby FPS Cap - 60FPS<br>
 In-Game FPS Cap - Unlimited<br>
@@ -17,7 +17,7 @@ Post-Processing - Very Low<br>
 Shadows - Very Low<br>
 Textures - Medium<br>
 Effects - Very Low<br>
-Foliage - High Low<br>
+Foliage - High<br>
 View Distance - Ultra<br>
 Sharpen - Enable<br>
 V-Sync - Disable<br>
