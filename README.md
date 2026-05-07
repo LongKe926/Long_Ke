@@ -23,7 +23,6 @@ Hello, My name is Long_Ke
 
 #### My account
 - [bilibili - 龍課_](https://space.bilibili.com/1982531789)
-- [bilibili - Kevin_CN](https://space.bilibili.com/3494365766879938)
 - [Discord - Long_Ke](https://discordapp.com/users/1140670737858953300)
 - [QQ - 龍課 · 莫塔里](https://qm.qq.com/q/ydSviiGS5y)
 - [QQ group chat - 莫塔里家族的内部通讯频道（Fan group）](https://qm.qq.com/q/7bbf3GNKKY)
