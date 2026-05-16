@@ -15,9 +15,9 @@ FPP Camera FOV - 90<br>
 Anti-Aliasing - Medium<br>
 Post-Processing - Very Low<br>
 Shadows - Very Low<br>
-Textures - Medium<br>
+Textures - Ultra<br>
 Effects - Very Low<br>
-Foliage - High<br>
+Foliage - Very Low<br>
 View Distance - Ultra<br>
 Sharpen - Enable<br>
 V-Sync - Disable<br>
