@@ -74,7 +74,7 @@ Toggle Perspective - F3<br>
 Free Look - Mouse button 5<br>
 World Map - M & N<br>
 Throwable Items Wheel - F1<br>
-Heal Items Wheel - ~
+Heal Items Wheel - F2
 ### Combat
 Aim - Mouse button 4<br>
 Primary Weapon 1 - 1<br>
